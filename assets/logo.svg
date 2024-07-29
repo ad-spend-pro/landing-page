@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="90" fill="#2563eb"/>
+  <path d="M100 10 A90 90 0 0 1 190 100 L100 100 Z" fill="#fbbf24"/>
+  <path d="M190 100 A90 90 0 0 1 100 190 L100 100 Z" fill="#34d399"/>
+  <circle cx="100" cy="100" r="60" fill="#2563eb"/>
+  <text x="100" y="115" font-family="Arial, sans-serif" font-size="40" font-weight="bold" fill="white" text-anchor="middle">ASP</text>
+</svg>
